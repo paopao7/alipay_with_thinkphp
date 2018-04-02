@@ -2,6 +2,7 @@
     "name": "paopao7/alipay_with_thinkphp",
     "description": "alipay_demo_with_ThinkPHP",
     "homepage": "http://itinfor.cn",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "paopao7",
