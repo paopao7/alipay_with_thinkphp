@@ -1,15 +1,11 @@
 {
     "name": "paopao7/alipay_with_thinkphp",
     "description": "alipay_demo_with_ThinkPHP",
-    "homepage": "http://itinfor.cn",
-    "version": "1.0.0",
-    "authors": [
-        {
-            "name": "paopao7",
-            "email": "980569038@qq.com"
-        }
-    ],
-    "require": {
-        "php": ">=5.5.0"
-    }
+    "keywords":["alipay", "thinkphp"],
+    "homepage":"http://itinfor.cn",
+    "license":"MIT",
+    "authors":[{
+        "name": "paopao7",
+        "email": "980569038@qq.com"
+    }]
 }
