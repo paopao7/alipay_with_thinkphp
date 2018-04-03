@@ -4,6 +4,7 @@
     "keywords":["alipay", "thinkphp"],
     "homepage":"http://itinfor.cn",
     "license":"MIT",
+    "version": "1.0.0",
     "authors":[{
         "name": "paopao7",
         "email": "980569038@qq.com"
