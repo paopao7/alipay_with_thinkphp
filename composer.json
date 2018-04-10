@@ -1,6 +1,6 @@
 {
-    "name": "paopao7/alipay_with_thinkphp",
-    "description": "alipay_demo_with_ThinkPHP",
+    "name": "paopao7/tp3_alipay_webpay",
+    "description": "ThinkPHP 3 with alipay webpay",
     "keywords":["alipay", "thinkphp"],
     "homepage":"http://itinfor.cn",
     "license":"MIT",
